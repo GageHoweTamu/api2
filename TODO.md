@@ -1,6 +1,5 @@
 # TODO
 
 - [x] Finish Google OAuth
-- [ ] Create SQLite database
-- [ ] Handle user functions
+- [ ] Create logic for Postgresql database
 - [ ] Migrate server and OAuth to a domain
