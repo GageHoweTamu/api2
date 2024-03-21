@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/066d544c-70f3-47aa-87cb-e03d38e8d50e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/uli-api",
+    "appService.deploySubpath": "."
+}
